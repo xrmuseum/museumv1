@@ -1,0 +1,2 @@
+id:29444,artifacts:{{num:0,time:5.647521},{num:1,time:3.985852},{num:2,time:6.032921},{num:3,time:0}}
+id:40708,artifacts:{{num:1,time:0},{num:2,time:6.541471},{num:3,time:11.67758},{num:4,time:10.57541}}
